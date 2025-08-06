@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+/target/
+.mvn/
+
+# Arquivos de build wrapper (caso use o Maven Wrapper)
+!mvnw
+!mvnw.cmd
+
+# VS Code (caso use como editor alternativo)
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
